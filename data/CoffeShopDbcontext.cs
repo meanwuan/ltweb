@@ -8,6 +8,7 @@ namespace THweb.data
        {
         }
         public DbSet<Product> Products { get; set; }
+        public DbSet<ShoppingCartItem> ShoppingCartItems { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -56,7 +57,7 @@ namespace THweb.data
                 Detail = "Russian product",
                 ImageUrl =
             "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee-1024x536.webp"
-            },
+            },  
             new Product
             {
                 ID = 6,

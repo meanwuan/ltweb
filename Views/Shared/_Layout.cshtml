@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿@inject IHttpContextAccessor HttpContextAccessor
+@{
+    var cartCount = HttpContextAccessor?.HttpContext?.Session.GetInt32("CartCount") ?? 9;
+}
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -55,9 +59,9 @@
                             <a class="nav-link link text-black show display-4"
                                asp-controller="Home" asp-action="Index">home</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item">   
                             <a class="nav-link link text-black show display-4"
-                               asp-controller="Product" asp-action="Details">Shop</a>
+                               asp-controller="Product" asp-action="Shop">Shop</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link link text-black show display-4"
@@ -75,7 +79,7 @@
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link link text-black show display-4" href="cart.html">
+                            <a class="nav-link link text-black show display-4" asp-controller="ShoppingCart" asp-action="Index">
                                 <span class="mobi-mbri mobi-mbri-shopping-bag mbr-iconfont mbr-iconfont-btn"><small>(0)</small></span>
                             </a>
                         </li>
@@ -86,6 +90,7 @@
     </section>
 
     <!-- Add RenderBody() to inject the child view's content -->
+    
     <main>
         @RenderBody()
     </main>
