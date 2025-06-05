@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\THweb\\THweb.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\ltweb\\THweb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\THweb\\THweb.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\ltweb\\THweb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\THweb\\THweb.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ltweb\\THweb.csproj",
         "projectName": "THweb",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\THweb\\THweb.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\ltweb\\THweb.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\THweb\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\ltweb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

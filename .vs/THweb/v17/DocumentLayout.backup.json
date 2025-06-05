@@ -1,135 +1,135 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\THweb\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ltweb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\services\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:models\\services\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\models\\services\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:models\\services\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\interfaces\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:models\\interfaces\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\models\\interfaces\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:models\\interfaces\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\data\\coffeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\data\\coffeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:data\\coffeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\migrations\\20250520141534_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:migrations\\20250520141534_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\migrations\\coffeshopdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\migrations\\20250520141534_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:migrations\\20250520141534_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\migrations\\coffeshopdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:migrations\\coffeshopdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\migrations\\20250520140534_firstcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\migrations\\20250520140534_firstcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:migrations\\20250520140534_firstcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_TPT1T42/products/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\THweb\\THweb.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\ltweb\\THweb.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:THweb.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\thweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\thweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:thweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\migrations\\20250531065331_addshoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|c:\\users\\admin\\source\\repos\\ltweb\\migrations\\20250531065331_addshoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EE4E3A4-C426-4F2D-A683-4374F92E2023}|THweb.csproj|solutionrelative:migrations\\20250531065331_addshoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -140,28 +140,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAACGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\Services\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Services\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\Services\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "Models\\Services\\ShoppingCartRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAjwEkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:56:33.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwCAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T01:03:56.504Z",
+              "WhenOpened": "2025-05-31T08:01:34.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoffeShopDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\data\\CoffeShopDbcontext.cs",
+              "RelativeDocumentMoniker": "data\\CoffeShopDbcontext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\data\\CoffeShopDbcontext.cs",
+              "RelativeToolTip": "data\\CoffeShopDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:26:17.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:27:19.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "Models\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\ShoppingCartItem.cs",
+              "RelativeToolTip": "Models\\ShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:50:48.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T13:34:42.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:44:27.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\Interfaces\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Interfaces\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\Interfaces\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "Models\\Interfaces\\IShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:54:00.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Interfaces\\IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Models\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\Interfaces\\IProductRepository.cs",
               "RelativeToolTip": "Models\\Interfaces\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,24 +261,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T11:47:20.964Z",
+              "WhenOpened": "2025-05-20T14:01:09.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Services\\ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\Services\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Models\\Services\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Services\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\Services\\ProductRepository.cs",
               "RelativeToolTip": "Models\\Services\\ProductRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,127 +287,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShoppingCartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Services\\ShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "Models\\Services\\ShoppingCartRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Services\\ShoppingCartRepository.cs",
-              "RelativeToolTip": "Models\\Services\\ShoppingCartRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T06:56:33.175Z",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAE8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T01:03:56.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ShoppingCartController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBQAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T07:44:27.264Z",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T07:18:37.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Shop.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Product\\Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Product\\Shop.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Shop.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Product\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Product\\Shop.cshtml",
               "RelativeToolTip": "Views\\Product\\Shop.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-21T02:29:49.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\ShoppingCart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeToolTip": "Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-31T08:01:34.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IShoppingCartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Interfaces\\IShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "Models\\Interfaces\\IShoppingCartRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Interfaces\\IShoppingCartRepository.cs",
-              "RelativeToolTip": "Models\\Interfaces\\IShoppingCartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T06:54:00.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T01:13:18.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T11:48:58.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ShoppingCartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ShoppingCartItem.cs",
-              "RelativeDocumentMoniker": "Models\\ShoppingCartItem.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ShoppingCartItem.cs",
-              "RelativeToolTip": "Models\\ShoppingCartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T06:50:48.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T11:27:19.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Product\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Product\\Details.cshtml",
               "RelativeToolTip": "Views\\Product\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -326,10 +340,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:47:20.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAlwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:48:58.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T01:56:17.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -337,23 +390,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T01:56:17.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -361,23 +402,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CoffeShopDbcontext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\data\\CoffeShopDbcontext.cs",
-              "RelativeDocumentMoniker": "data\\CoffeShopDbcontext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\data\\CoffeShopDbcontext.cs",
-              "RelativeToolTip": "data\\CoffeShopDbcontext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T12:26:17.788Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 32,
               "Title": "20250531065331_addShoppingCartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Migrations\\20250531065331_addShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Migrations\\20250531065331_addShoppingCartItem.cs",
               "RelativeDocumentMoniker": "Migrations\\20250531065331_addShoppingCartItem.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Migrations\\20250531065331_addShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Migrations\\20250531065331_addShoppingCartItem.cs",
               "RelativeToolTip": "Migrations\\20250531065331_addShoppingCartItem.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -385,11 +414,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -397,11 +426,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "20250520141534_seeddata.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Migrations\\20250520141534_seeddata.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Migrations\\20250520141534_seeddata.cs",
               "RelativeDocumentMoniker": "Migrations\\20250520141534_seeddata.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Migrations\\20250520141534_seeddata.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Migrations\\20250520141534_seeddata.cs",
               "RelativeToolTip": "Migrations\\20250520141534_seeddata.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAACfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -409,11 +438,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -421,23 +450,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswBMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T14:01:09.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "20250520140534_FirstCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Migrations\\20250520140534_FirstCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Migrations\\20250520140534_FirstCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250520140534_FirstCreate.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Migrations\\20250520140534_FirstCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Migrations\\20250520140534_FirstCreate.cs",
               "RelativeToolTip": "Migrations\\20250520140534_FirstCreate.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -445,11 +462,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "CoffeShopDbcontextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Migrations\\CoffeShopDbcontextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Migrations\\CoffeShopDbcontextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\CoffeShopDbcontextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Migrations\\CoffeShopDbcontextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Migrations\\CoffeShopDbcontextModelSnapshot.cs",
               "RelativeToolTip": "Migrations\\CoffeShopDbcontextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -457,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "dbo.Products.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_TPT1T42/products/True/SqlTable/dbo.Products.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_TPT1T42/products/True/SqlTable/dbo.Products.sql",
@@ -466,11 +483,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "THweb.csproj.user",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\THweb.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\THweb.csproj.user",
               "RelativeDocumentMoniker": "THweb.csproj.user",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\THweb.csproj.user",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\THweb.csproj.user",
               "RelativeToolTip": "THweb.csproj.user",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
@@ -478,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Container.targets",
               "DocumentMoniker": "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\build\\Container.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\build\\Container.targets",
@@ -490,11 +507,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -502,11 +519,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "THweb.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\THweb.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\THweb.csproj",
               "RelativeDocumentMoniker": "THweb.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\THweb.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\THweb.csproj",
               "RelativeToolTip": "THweb.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -514,23 +531,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T13:34:42.213Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 30,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -540,9 +545,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ltweb\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ltweb\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

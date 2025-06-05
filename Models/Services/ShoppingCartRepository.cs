@@ -24,8 +24,7 @@ namespace THweb.Models.Services
         }
         public void AddToCart(Product product)
         {
-            var shoppingcartItem = dbcontext.ShoppingCartItems.FirstOrDefault(c => c.Product.ID == product.ID 
-                                                                                && c.ShoppingCartId == ShoppingCartId);
+            var shoppingcartItem = dbcontext.ShoppingCartItems.FirstOrDefault(c => c.Product.ID == product.ID && c.ShoppingCartId == ShoppingCartId);
             if (shoppingcartItem == null)
             {
                 shoppingcartItem = new ShoppingCartItem
@@ -64,19 +63,19 @@ namespace THweb.Models.Services
 
         public int RemoveFromCart(Product product)
         {
-            var shoppingcartItem = dbcontext.ShoppingCartItems.FirstOrDefault(c => c.Product.ID == product.ID 
-                                                                                && c.ShoppingCartId == ShoppingCartId);
+            var shoppingCartItem = dbcontext.ShoppingCartItems.FirstOrDefault(s =>s.Product.ID == product.ID && s.ShoppingCartId == ShoppingCartId);
             var quantity = 0;
-            if (ShoppingCartItems != null)
+
+            if (shoppingCartItem != null)
             {
-                if (shoppingcartItem.Quantity > 1)
+                if (shoppingCartItem.Quantity > 1)
                 {
-                    shoppingcartItem.Quantity--;
-                    quantity = shoppingcartItem.Quantity;
+                    shoppingCartItem.Quantity--;
+                    quantity = shoppingCartItem.Quantity;
                 }
                 else
-                { 
-                    dbcontext.ShoppingCartItems.Remove(shoppingcartItem);
+                {
+                    dbcontext.ShoppingCartItems.Remove(shoppingCartItem);
                 }
             }
             dbcontext.SaveChanges();
