@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("35f4b395-1206-47cb-a130-05e911c90fc3")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("THweb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+164ee9d7cfd64b31ce1b38bd4a6f5b947f227e2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3adb5e22f7c5e66b5680c50befeb5e44fdc5213")]
 [assembly: System.Reflection.AssemblyProductAttribute("THweb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("THweb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

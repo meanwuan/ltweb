@@ -1,14 +1,17 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using THweb.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 namespace THweb.data
 {
-    public class CoffeShopDbcontext: DbContext
+    public class CoffeShopDbcontext: IdentityDbContext
     {
        public CoffeShopDbcontext(DbContextOptions<CoffeShopDbcontext> options): base(options)
        {
         }
         public DbSet<Product> Products { get; set; }
         public DbSet<ShoppingCartItem> ShoppingCartItems { get; set; }
+        public DbSet<order> orders { get; set; }
+        public DbSet<Orderdetail> Orderdetails { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
